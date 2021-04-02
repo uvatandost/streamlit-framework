@@ -117,7 +117,7 @@ for item in options:
 	fig.set_size_inches(4, 2)
 	sns.regplot(x=item, y="bti_ci", data=year, ax=ax)
 	sns.despine()
-	st.pyplot(fig)
+	st.pyplot()
 	st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.beta_expander("See the data"):
