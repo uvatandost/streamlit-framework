@@ -23,7 +23,7 @@ map_data = pd.DataFrame(
 
 st.map(map_data)
 
-data_source = "C:/Users/uvata/OneDrive/Documents/Harrisbug University/Analytics/Expl Data Analy (ANLY 506 51 B-2020Summer)/Final Project/qog_std_ts_jan20.csv"
+data_source = "qog_std_ts_jan20.csv"
 
 @st.cache
 def load_data():
