@@ -7,4 +7,4 @@ bokeh
 requests
 numpy
 seaborn
-matplotlib.pyplot
+matplotlib
