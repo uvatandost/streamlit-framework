@@ -8,5 +8,4 @@ requests
 numpy
 seaborn
 matplotlib
-json
 os
