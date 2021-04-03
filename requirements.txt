@@ -7,4 +7,6 @@ bokeh
 requests
 numpy
 seaborn
-matplotlibpython-dotenv
+matplotlib
+json
+os
